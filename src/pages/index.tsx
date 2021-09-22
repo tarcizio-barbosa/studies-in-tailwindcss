@@ -1,3 +1,7 @@
-export default function Home() {
-  return <div>Welcome to Next.Js!</div>
+import { MyDialog } from "./components/Dialog";
+
+export default function Home(): JSX.Element {
+  return <div>
+    <MyDialog />
+  </div>
 }
