@@ -1,0 +1,19 @@
+{
+  "name": "studies-in-tailwindcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tarcizio-barbosa/studies-in-tailwindcss.git",
+  "author": "tarcizio-barbosa <tarcizio.barbosa@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
